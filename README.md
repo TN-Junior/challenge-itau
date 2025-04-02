@@ -1,4 +1,8 @@
-# 💳 Technical Challenge – Transactions and Statistics API (Itaú Unibanco)
+# 🟧 Itaú Unibanco - Technical Challenge
+
+### 💳 Transactions and Statistics API (60-second real-time processing)
+
+
 
 This project was developed as a solution for the technical challenge proposed by Itaú Unibanco. It is a REST API built with Java and Spring Boot that receives financial transactions and returns real-time statistics for the transactions that occurred in the last 60 seconds.
 
